@@ -7,7 +7,7 @@ meu filtro de paywall contra locais com politicas agressivas de ads e/ou contra 
 
 para ser usados em adblocks como Ublock (minha preferencia) ou adblockplus
 
-Suporte:
+Suporte versao 07/2020:
   - folha
   - estadao
   - globo
