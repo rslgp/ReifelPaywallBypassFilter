@@ -14,4 +14,3 @@
 
 ||cdn.metro.co.uk/base/metro-ab-dialog/*
 
-||cdn.taboola.com/libtrc/*
