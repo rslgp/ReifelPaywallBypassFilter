@@ -14,3 +14,4 @@
 
 ||cdn.metro.co.uk/base/metro-ab-dialog/*
 
+||dailymail.co.uk/static/mol-fe/static/mol-fe-async-bundle//*/articleDefer.js
